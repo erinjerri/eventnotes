@@ -1,0 +1,62 @@
+Scaled Machine Learning
+
+Stanford University
+March 25th 2017, 8:30am - 6:00pm
+Machine Learning is evolving to utilize new hardware such as GPUs and large commodity clusters. University and industry researchers have been using these new computing platforms to scale machine learning across many dimensions.
+
+This conference aims to bring together researchers running machine learning algorithms on a variety of computing platforms to foster discussions between them. The goal is to encourage algorithm designers for these platforms to help each other scale and transplant ideas between the platforms.
+
+Speakers and Panelists
+
+Jeff Dean (Google) 
+Scaled Machine Learning with TensorFlow and XLA
+Ion Stoica (UC Berkeley and Databricks) 
+Distributed Machine Learning and the Berkeley RISE lab
+Reza Zadeh (Stanford and Matroid) 
+Scaling Computer Vision at Matroid
+Rajat Monga (Google) 
+Panel on Scaled ML
+Ben Lorica (O'Reilly) 
+Panel on Scaled ML
+Wes McKinney (Two Sigma) 
+Memory Interoperability in Analytics and Machine Learning
+David Ku (Microsoft) 
+Scaled Machine Learning at Microsoft
+Ian Buck (NVIDIA) 
+Scaled Machine Learning on NVIDIA GPUs
+Claudia Perlich (Dstillery) 
+Andy Feng (Yahoo) 
+TensorFlow on Apache Spark
+DB Tsai (Netflix) 
+Panel on Scaled ML
+Ziya Ma (Intel) 
+Scaling ML on Intel CPUs
+Matei Zaharia (Stanford) 
+DAWN: Infrastructure for usable Machine Learning
+Ilya Sutskever (OpenAI) 
+Evolution Strategies: a scalable alternative to reinforcement learning.
+Schedule
+
+Saturday March 25th 2017
+========
+08:15 Registration open
+
+08:45-09:00 Reza Zadeh, Introduction
+
+09:00-10:00 Ion Stoica 
+10:00-11:00 Reza Zadeh 
+11:00-11:30 David Ku 
+11:30-12:00 Matei Zaharia
+
+12:00-13:00 Lunch Break 
+
+13:00-14:00 Jeff Dean 
+14:00-15:00 Panel: Ziya Ma, Rajat Monga, DB Tsai, Ron Bodkin, Ben Lorica 
+15:00-15:30 Claudia Perlich 
+
+15:30-16:00 Break 
+
+16:00-16:30 Ilya Sutskever 
+16:30-17:00 Wes Mckinney 
+17:00-17:30 Ian Buck 
+17:30-18:00 Andy Feng 
